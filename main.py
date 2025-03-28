@@ -36,7 +36,7 @@ if __name__ == "__main__":
     numeros.imprimir_numeros()
 
     print("\nNúmeros ordenados:")
-    numeros.ordenar_numeros()
+    numeros.ordenar_numeros()git
     numeros.imprimir_numeros()
 
     print("\nEl mayor es:", numeros.numero3)
